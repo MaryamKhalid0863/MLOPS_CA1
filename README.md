@@ -3,12 +3,14 @@
 $ git clone https://github.com/MaryamKhalid0863/MLOPS_CA1.git
 <img width="448" alt="9" src="https://github.com/MaryamKhalid0863/MLOPS_CA1/assets/106441632/973eb6b8-b31c-497c-a06d-85e8f6a5d59c">
 cd MLOPS_CA1
-
 git checkout dev
-### Now creating my Branch as 20I0863
+
+### Now creating my Branch as 20i0745
 git branch 20i0745
 git checkout 20i0745
+
 <img width="292" alt="8" src="https://github.com/MaryamKhalid0863/MLOPS_CA1/assets/106441632/33d0da85-89c7-4bf8-9670-1645dbf98b77">
+
 ### Create the Project Structure
 mkdir -p PythonProject/tests
 cd PythonProject
@@ -28,7 +30,8 @@ git add .
 ### Finally Pushing my Branch after commit
  git commit -m "Project scaffolding with initial structure by 20i-0745"
  git push -u origin 20i0745
-  <img width="580" alt="5" src="https://github.com/MaryamKhalid0863/MLOPS_CA1/assets/106441632/7d959feb-eaf4-4fa6-b1bf-957ca612589c">
+ 
+<img width="580" alt="5" src="https://github.com/MaryamKhalid0863/MLOPS_CA1/assets/106441632/7d959feb-eaf4-4fa6-b1bf-957ca612589c">
 
 ## 20I-0863
 $ git clone https://github.com/MaryamKhalid0863/MLOPS_CA1.git
